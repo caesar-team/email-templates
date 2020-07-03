@@ -1,0 +1,9 @@
+<mj-section background-color="#fff" border-bottom="1px solid #eee">
+  <mj-column width="28%">
+    <mj-image width="158px" height="40px" padding="0"  src="./images/logo.svg">logo</mj-image>
+ </mj-column>
+ <mj-column width="46%"></mj-column>
+ <mj-column width="20%">
+   <mj-text padding-left="0px" padding-right="0" font-weight="bold">caesar.team</mj-text>
+ </mj-column>
+</mj-section>

@@ -1,0 +1,18 @@
+<mjml>
+  <mj-head>
+    <mj-title>Caesar</mj-title>
+    <mj-font name="Kalam" href="https://fonts.googleapis.com/css2?family=Kalam" />
+    <mj-style inline="inline">
+      .link {
+        text-decoration: none;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#ffffff">
+    <mj-section>
+      <mj-column>
+        <mj-text font-size="16px" font-family="Kalam">Here will be email text.</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
