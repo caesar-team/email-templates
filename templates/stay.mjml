@@ -1,0 +1,54 @@
+<mjml>
+  <mj-head>
+    <mj-breakpoint width="540px" />
+    <mj-attributes>
+      <mj-text align="center" color="#000"  line-height="1.3" />
+      <mj-font name="Muli" href="https://fonts.googleapis.com/css2?family=Muli" />
+      <mj-all font-family="Muli, 'Helvetica Neue', Helvetica, Arial" font-size="18px" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-wrapper background-url="./images/mail_bg.png" background-color="#000" padding-top="0" padding-bottom="0" full-width="full-width">
+    <mj-include path="./includes/header.mjml" />
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text>Hi,</mj-text>
+        <mj-text>Some time ago you signed up to get the latest news about our <a href="https://caesar.team/" style="color:#000;">Caesar.Team</a> app!</mj-text>
+        <mj-table>
+          <tr>
+            <td style="padding: 0 10px 15px 0;"><img width="16px" src="./images/favourite.png"></td>
+            <td style="padding-bottom: 15px">
+          Caesar.Team is an open-source password and document manager for teams.
+        </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 10px 15px 0;"><img width="16px" src="./images/favourite.png"></td>
+            <td style="padding-bottom: 15px">
+          Extremely secure encryption methods with a team-friendly interface.
+        </td>
+          </tr>
+          <tr>
+            <td style="padding: 0 10px 15px 0;"><img width="16px" src="./images/favourite.png"></td>
+            <td style="padding-bottom: 15px">
+          The symbiosis of 1Password and Slack.
+        </td>
+          </tr>            
+        </mj-table>
+            
+        <mj-image src="./images/Group_19.png"></mj-image>
+        
+        <mj-text>We appreciate your attention to our app and we'll let you know personally when our Caesar.Team is ready for the public launch.</mj-text>
+        <mj-text>Without doubts, you`ll be the first one to know about that! </mj-text>
+        <mj-text>Right now we`re in the Closed BETA stage and have been polishing several components to be launched without the shortcomings.</mj-text>
+        <mj-include path="./includes/follow.mjml" />  
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-divider border-width="1px" border-color="#eee" padding="0"/>
+      </mj-column>
+    </mj-section>          
+    <mj-include path="./includes/footer.mjml" />
+    </mj-wrapper>
+  </mj-body>
+</mjml>

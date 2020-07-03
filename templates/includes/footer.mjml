@@ -1,0 +1,12 @@
+<mj-section padding-top="0" padding-bottom="20px" background-color="#fff">
+  <mj-column>
+    <mj-text line-height="0.2" color="#888">Sincerely yours,</mj-text>
+    <mj-text line-height="0.2"><a href="https://caesar.team/" style="color:#000;">Caesar Team</a></mj-text>
+  </mj-column>
+</mj-section>
+<mj-section padding-bottom="20px" background-color="#000" padding-left="0">
+  <mj-column>
+    <mj-text font-size="14px" color="#999">This is an automatically generated email – please do not reply to it. If you have any questions, please contact <a href="mailto:support@caesarteam.com" style="color: #fff;">support@caesarteam.com</a>.
+    </mj-text>
+  </mj-column>  
+</mj-section>
